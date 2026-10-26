@@ -392766,7 +392766,8 @@
       "evidence": "package.json#dsh.bundle",
       "tags": [
         "agents"
-      ]
+      ],
+      "npm": "@lifenrir/dsh-external-task-context"
     }
   ]
 }
