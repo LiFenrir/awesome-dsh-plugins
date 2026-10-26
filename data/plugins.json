@@ -392766,7 +392766,8 @@
       "evidence": "package.json#dsh.bundle",
       "tags": [
         "ui"
-      ]
+      ],
+      "npm": "@lifenrir/dsh-selection-quote"
     },
     {
       "name": "@lifenrir/dsh-video-preview",
@@ -392781,7 +392782,8 @@
       "evidence": "package.json#dsh.bundle",
       "tags": [
         "ui"
-      ]
+      ],
+      "npm": "@lifenrir/dsh-video-preview"
     }
   ]
 }
